@@ -27,4 +27,29 @@ You need to have the following software installed on your machine:
    Open your terminal and run the following command to clone the project repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/rushinsandeepana/ToDo-Application.git
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd repository
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+4. **Run the project:**
+
+    ```bash
+    npm run dev
+    ```
+
+### Access the Project
+
+Once the server is running, open your browser and go to:
+
+Replace `5173` with the actual port if it's different.
+
